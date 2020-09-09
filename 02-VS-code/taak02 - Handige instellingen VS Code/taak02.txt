@@ -1,0 +1,5 @@
+editor
+zijbalk
+statusbalk
+activiteitenbalk
+panelen
